@@ -1,0 +1,7 @@
+D:\C#\Method Hafmana\bin\Debug\Method Hafmana.exe.config
+D:\C#\Method Hafmana\bin\Debug\Method Hafmana.exe
+D:\C#\Method Hafmana\bin\Debug\Method Hafmana.pdb
+D:\C#\Method Hafmana\obj\Debug\Method Hafmana.csprojAssemblyReference.cache
+D:\C#\Method Hafmana\obj\Debug\Method Hafmana.csproj.CoreCompileInputs.cache
+D:\C#\Method Hafmana\obj\Debug\Method Hafmana.exe
+D:\C#\Method Hafmana\obj\Debug\Method Hafmana.pdb
